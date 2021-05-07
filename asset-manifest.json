@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/scarlet/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/scarlet/static/js/main.44169d42.chunk.js",
-    "main.js.map": "/scarlet/static/js/main.44169d42.chunk.js.map",
+    "main.css": "/scarlet/static/css/main.12bad507.chunk.css",
+    "main.js": "/scarlet/static/js/main.00634b94.chunk.js",
+    "main.js.map": "/scarlet/static/js/main.00634b94.chunk.js.map",
     "runtime-main.js": "/scarlet/static/js/runtime-main.938f2658.js",
     "runtime-main.js.map": "/scarlet/static/js/runtime-main.938f2658.js.map",
-    "static/js/2.16a1288a.chunk.js": "/scarlet/static/js/2.16a1288a.chunk.js",
-    "static/js/2.16a1288a.chunk.js.map": "/scarlet/static/js/2.16a1288a.chunk.js.map",
+    "static/js/2.0f5941ac.chunk.js": "/scarlet/static/js/2.0f5941ac.chunk.js",
+    "static/js/2.0f5941ac.chunk.js.map": "/scarlet/static/js/2.0f5941ac.chunk.js.map",
     "static/js/3.b63ed670.chunk.js": "/scarlet/static/js/3.b63ed670.chunk.js",
     "static/js/3.b63ed670.chunk.js.map": "/scarlet/static/js/3.b63ed670.chunk.js.map",
     "index.html": "/scarlet/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/scarlet/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.16a1288a.chunk.js.LICENSE.txt": "/scarlet/static/js/2.16a1288a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/scarlet/static/media/logo.6ce24c58.svg"
+    "static/css/main.12bad507.chunk.css.map": "/scarlet/static/css/main.12bad507.chunk.css.map",
+    "static/js/2.0f5941ac.chunk.js.LICENSE.txt": "/scarlet/static/js/2.0f5941ac.chunk.js.LICENSE.txt",
+    "static/media/logo.456b0962.png": "/scarlet/static/media/logo.456b0962.png"
   },
   "entrypoints": [
     "static/js/runtime-main.938f2658.js",
-    "static/js/2.16a1288a.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.44169d42.chunk.js"
+    "static/js/2.0f5941ac.chunk.js",
+    "static/css/main.12bad507.chunk.css",
+    "static/js/main.00634b94.chunk.js"
   ]
 }
